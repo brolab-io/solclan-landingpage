@@ -1,3 +1,4 @@
+import SectionTwo from "@/components/SectionTwo";
 import Image from "next/image";
 import { MdKeyboardArrowRight } from "react-icons/md";
 
@@ -43,7 +44,7 @@ export default function Home() {
           </div>
         </div>
       </div>
-      <div>sdfsdf sdfsd</div>
+      <SectionTwo />
     </div>
   );
 }
