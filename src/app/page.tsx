@@ -1,4 +1,5 @@
 import Section3 from "@/components/Section3";
+import Section4 from "@/components/Section4";
 import SectionTwo from "@/components/SectionTwo";
 import Image from "next/image";
 import { MdKeyboardArrowRight } from "react-icons/md";
@@ -47,6 +48,7 @@ export default function Home() {
       </div>
       <SectionTwo />
       <Section3 />
+      <Section4 />
     </div>
   );
 }
