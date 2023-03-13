@@ -10,12 +10,12 @@ export default function Section3() {
               OUR USP
             </h2>
             <p className="font-sans justify-start">
-              Solclan's USPs include on-chain governance, anti-rug protection,
-              automated financial execution, and a mobile app. These features
-              provide transparency, safety, efficiency, and convenience for
-              users, making Solclan a trustworthy and user-friendly platform for
-              small investors, venture capitalists, and project founders in the
-              Web3 space.
+              Solclan&apos;s USPs include on-chain governance, anti-rug
+              protection, automated financial execution, and a mobile app. These
+              features provide transparency, safety, efficiency, and convenience
+              for users, making Solclan a trustworthy and user-friendly platform
+              for small investors, venture capitalists, and project founders in
+              the Web3 space.
             </p>
             <button className="bg-white text-black font-bold text-sm px-4 py-2 rounded-full hover:bg-white/90 transition-colors duration-300">
               Get start now
