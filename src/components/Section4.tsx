@@ -42,7 +42,7 @@ export default function Section4() {
                 <div className='flex mt-[10px] '>
                   To use this function, users can submit a proposal to invest in
                   a particular early-stage startup by providing details such as
-                  the project's name, website, team members, and any other
+                  the project&apos;s name, website, team members, and any other
                   relevant information. Once the proposal is submitted, other
                   users can view and discuss the opportunity, as well as ask
                   questions and offer feedback.
@@ -69,8 +69,8 @@ export default function Section4() {
                   Auto-vesting function is a feature that allows investors to
                   automatically vest their tokens over a specific period of
                   time. This means that the tokens are gradually released to the
-                  investor's wallet, rather than being fully released all at
-                  once.
+                  investor&apos;s wallet, rather than being fully released all
+                  at once.
                 </div>
               </div>
             </div>
