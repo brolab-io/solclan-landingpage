@@ -27,9 +27,13 @@ export default function NavBar() {
           </ul>
         </nav>
         <div>
-          <button className='border-2 border-white text-white tracking-widest text-sm px-4 py-2 rounded-full hover:bg-white/20 transition-colors duration-300'>
+          <a
+            href={process.env.NEXT_PUBLIC_APP_URL}
+            target='_blank'
+            className='flex whitespace-nowrap border-2 border-white text-white tracking-widest text-sm px-4 py-2 rounded-full hover:bg-white/20 transition-colors duration-300'
+          >
             Download app
-          </button>
+          </a>
         </div>
       </div>
     </div>
